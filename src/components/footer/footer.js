@@ -1,0 +1,15 @@
+import React from 'react';
+
+class Footer extends React.Component {
+  
+  render() {
+    return(
+    <div>
+      <p>&copy; Brent Woodward, 2019</p>
+      <p>Source Code</p>
+    </div>
+    );
+  }
+}
+
+export default Footer;
